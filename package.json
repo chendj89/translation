@@ -21,6 +21,7 @@
     },
     "word":{
       "desc":"单词默认结构,有利于单词后期检索",
+       "readme":"当存储list.ts为空[](数组)时,则是清除所有数据",
        "construction": {
         "name":"",
         "type":[""],
