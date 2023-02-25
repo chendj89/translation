@@ -1,1 +1,1 @@
-[object Object]
+[{"name":"proto","type":[""],"key":[],"feature":[]}]
