@@ -13,8 +13,11 @@
     "dist":{
       "root":"dist/en",
       "dir":"json",
+      "dirDesc":"单词数据存放目录",
       "extname":"json",
-      "list":"list.txt"
+      "extnameDesc":"单词数据文件类型",
+      "list":"list.js",
+      "listDesc":"单词目录"
     },
     "word":{
       "desc":"单词默认结构,有利于单词后期检索",
