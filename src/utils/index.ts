@@ -25,7 +25,7 @@ export async function scan(root: string, dist: string = "src/raw/") {
   if (list) {
     list = JSON.parse(list);
   } else {
-    list = [];
+    list = ["hello"];
   }
   // 确保单词数据目录存在
   fs.ensureDirSync(dir);
