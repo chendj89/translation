@@ -1,6 +1,4 @@
 import path from "path";
-import { scan } from "./src/utils";
+import translation from "./src/en";
 const root = path.join(__dirname);
-import { raw } from "./package.json";
-
-scan(root, raw);
+translation(root);
